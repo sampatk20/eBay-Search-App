@@ -43,7 +43,6 @@ iOS App: [Demo](https://youtu.be/SNt5g7dIRH8)
 Contact
 For any questions or feedback, please reach out to:
 
-Name: Sampat Kumar Udugula
-Email: udugula@usc.edu
-Portfolio: [Sampat's Portfolio](https://sampat20.github.io/Portfolio)
+
+Email: sampatk2002@gmail.com
 
