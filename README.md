@@ -1,10 +1,11 @@
 # eBay-Search-App
+## Overview
+The eBay Search App is a full-stack web application that allows users to search for items on eBay. The application is built with React.js for the frontend and Node.js for the backend. It integrates with the eBay API to fetch and display search results dynamically.
 
 
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white) ![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white) ![eBay API](https://img.shields.io/badge/eBay-0064D2?style=for-the-badge&logo=ebay&logoColor=white) ![GCP](https://img.shields.io/badge/Google%20Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white) ![Swift](https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white)
 
-## Overview
-The eBay Search App is a full-stack web application that allows users to search for items on eBay. The application is built with React.js for the frontend and Node.js for the backend. It integrates with the eBay API to fetch and display search results dynamically.
+
 
 ## Features
 - **Search Functionality:** Users can search for items on eBay using keywords.
